@@ -1,2 +1,4 @@
 Replace all text in document with path to edge web driver (download at https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) see example below:
 C:\\Users\\yourusername\\PATH\\PATH\\PATH\\msedgedriver.exe
+
+MAKE SURE TO ADD IN DOUBLE SLASHES
